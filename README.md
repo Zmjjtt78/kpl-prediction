@@ -82,3 +82,7 @@ pnpm build:web
 ```
 
 历史赛事源数据、头像、队标与赛事名称的权利归各自权利人；部署者应确认数据使用范围。
+
+## Deployment
+
+This project is deployed using Cloudflare Workers.
