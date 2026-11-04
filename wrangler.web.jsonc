@@ -5,5 +5,5 @@
   "compatibility_date": "2026-05-15",
   "compatibility_flags": ["nodejs_compat"],
   "vars": {"STANDALONE_WEB":"1", "APP_ORIGIN":"https://your-domain.example"},
-  "d1_databases": [{"binding":"DB", "database_name":"zhuguan-kpl", "database_id": "77bc06a0-5942-45cb-9632-d176366dcb4", "migrations_dir":"drizzle"}]
+  "d1_databases": [{"binding":"DB", "database_name":"zhuguan-kpl", "database_id": "77bc06a0-5942-45cb-9632-d1763666dcb4", "migrations_dir":"drizzle"}]
 }
