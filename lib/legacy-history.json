@@ -1,0 +1,134 @@
+[
+  {
+    "match_id": "legacy-20160917-opening",
+    "league_id": "2016KPL秋季赛",
+    "league_name": "2016KPL秋季赛",
+    "start_time": "2016-09-17 18:00:00",
+    "bo": 3,
+    "status": 2,
+    "match_stage_desc": "常规赛",
+    "source": "https://www.ttplus.cn/publish/app/data/2019/09/05/267518/os_news.html",
+    "peakExplicit": false,
+    "camp1": {
+      "team_id": "10006",
+      "team_name": "eStarPro",
+      "score": 2
+    },
+    "camp2": {
+      "team_id": "legacy-vghow",
+      "team_name": "VgHow",
+      "score": 0
+    },
+    "match_battle_video_list": []
+  },
+  {
+    "match_id": "legacy-20161218-final",
+    "league_id": "2016KPL秋季赛",
+    "league_name": "2016KPL秋季赛",
+    "start_time": "2016-12-18 18:00:00",
+    "bo": 5,
+    "status": 2,
+    "match_stage_desc": "总决赛",
+    "source": "https://news.17173.com/z/pvp/content/12202016/092046136.shtml",
+    "peakExplicit": false,
+    "camp1": {
+      "team_id": "legacy-as",
+      "team_name": "AS仙阁",
+      "score": 3
+    },
+    "camp2": {
+      "team_id": "10027",
+      "team_name": "AG超玩会",
+      "score": 2
+    },
+    "match_battle_video_list": []
+  },
+  {
+    "match_id": "legacy-20170708-final",
+    "league_id": "2017KPL春季赛",
+    "league_name": "2017KPL春季赛",
+    "start_time": "2017-07-08 18:00:00",
+    "bo": 7,
+    "status": 2,
+    "match_stage_desc": "总决赛",
+    "source": "https://zh.wikipedia.org/wiki/王者榮耀職業聯賽",
+    "peakExplicit": false,
+    "camp1": {
+      "team_id": "10001",
+      "team_name": "QGhappy",
+      "score": 4
+    },
+    "camp2": {
+      "team_id": "10027",
+      "team_name": "AG超玩会",
+      "score": 0
+    },
+    "match_battle_video_list": []
+  },
+  {
+    "match_id": "legacy-20171223-final",
+    "league_id": "2017KPL秋季赛",
+    "league_name": "2017KPL秋季赛",
+    "start_time": "2017-12-23 18:00:00",
+    "bo": 7,
+    "status": 2,
+    "match_stage_desc": "总决赛",
+    "source": "https://zh.wikipedia.org/wiki/王者榮耀職業聯賽",
+    "peakExplicit": false,
+    "camp1": {
+      "team_id": "10001",
+      "team_name": "QGhappy",
+      "score": 4
+    },
+    "camp2": {
+      "team_id": "10017",
+      "team_name": "XQ",
+      "score": 2
+    },
+    "match_battle_video_list": []
+  },
+  {
+    "match_id": "legacy-20180708-final",
+    "league_id": "2018KPL春季赛",
+    "league_name": "2018KPL春季赛",
+    "start_time": "2018-07-08 18:00:00",
+    "bo": 7,
+    "status": 2,
+    "match_stage_desc": "总决赛",
+    "source": "https://www.newton.com.tw/wiki/KPL王者榮耀職業聯賽",
+    "peakExplicit": false,
+    "camp1": {
+      "team_id": "10007",
+      "team_name": "Hero久竞",
+      "score": 4
+    },
+    "camp2": {
+      "team_id": "10002",
+      "team_name": "EDG.M",
+      "score": 1
+    },
+    "match_battle_video_list": []
+  },
+  {
+    "match_id": "legacy-20181222-final",
+    "league_id": "2018KPL秋季赛",
+    "league_name": "2018KPL秋季赛",
+    "start_time": "2018-12-22 18:00:00",
+    "bo": 7,
+    "status": 2,
+    "match_stage_desc": "总决赛",
+    "source": "https://news.17173.com/z/pvp/content/12232018/021328882_1.shtml",
+    "peakExplicit": true,
+    "camp1": {
+      "team_id": "10007",
+      "team_name": "Hero久竞",
+      "score": 4
+    },
+    "camp2": {
+      "team_id": "10004",
+      "team_name": "BA黑凤梨",
+      "score": 3
+    },
+    "match_battle_video_list": []
+  }
+]

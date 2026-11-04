@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793613197897,
+      "tag": "0000_woozy_stark_industries",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1793673499135,
+      "tag": "0001_medical_baron_strucker",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1793688285285,
+      "tag": "0002_amused_black_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1793690258687,
+      "tag": "0003_polite_scrambler",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1793792788708,
+      "tag": "0004_overjoyed_doctor_spectrum",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+import {ArrowUpRight} from 'lucide-react';
+export default function SiteHeader({active}:{active:string}){return <header><a className="brand" href="/"><span>逐冠</span><small>KPL PREDICT</small></a><nav><a href="/arena">晋级预测</a><a href="/my-predictions" className={active==='我的预测'?'nav-active':''}>我的预测</a><a className={active==='历史趣闻'?'nav-active':''} href="/history">历史趣闻</a><a href="/archive" className={active==='历史赛程'?'nav-active':''}>历史赛程</a><a href="/account">设备登录</a></nav><a className="profile" href="/arena">返回预测台<ArrowUpRight size={15}/></a></header>}

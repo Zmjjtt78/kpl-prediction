@@ -1,0 +1,2 @@
+'use client';
+export default function ScoreSelect({value,disabled,label,onChange}:{value:number|null,disabled:boolean,label:string,onChange:(n:number)=>void}){return <select className="score-dropdown" aria-label={label} value={value===null?'':value} disabled={disabled} onChange={e=>onChange(Number(e.target.value))}><option value="" disabled>比分</option>{[0,1,2,3,4].map(n=><option key={n} value={n}>{n}</option>)}</select>}

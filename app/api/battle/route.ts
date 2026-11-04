@@ -1,0 +1,2 @@
+import {readBattle} from '../../../lib/battle-server';
+export async function GET(req:Request){const id=new URL(req.url).searchParams.get('id')||'';if(!/^\d{6,15}_\d{1,8}_\d{8,12}$/.test(id))return Response.json({error:'无效单局编号'},{status:400});const battle=await readBattle(id);if(battle)return Response.json(battle,{headers:{'Cache-Control':'private, max-age=5'}});return Response.json({id,pending:true,players:[],bp:[],camps:[],status:0,source:'pending',at:Date.now(),message:'源站尚未提供本局BP／统计，正在等待更新。已结束的小局仍可切换查看。'},{headers:{'Cache-Control':'private, no-store'}});}

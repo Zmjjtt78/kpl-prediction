@@ -1,0 +1,4 @@
+export type Player={name:string,fullName?:string,icon?:string,teamId?:string,team:string,camp:number,pos:string,hero:string,heroIcon:string,kills:number|null,deaths:number|null,assists:number|null,gold:number|null,damage:number|null,damageRate:number|null,tankRate:number|null,part:number|null,rating:number|null};
+export type EvidenceBattle={id:string,match:string,league:string,date:string,seq:number,winner:number,winnerTeam:string,duration:number,camps:{id:string,name:string,gold:number|null}[],players:Player[]};
+export type HeroStats={hero:string,icon:string,n:number,wins:number,rate:number,kda:number,part:number|null,damageRate:number|null,goldShare:number|null,efficiency:number|null};
+export type PlayerStats={name:string,icon:string,team:string,teamId:string,pos:string,n:number,wins:number,last:string,heroes:HeroStats[]};
